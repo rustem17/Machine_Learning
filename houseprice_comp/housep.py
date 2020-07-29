@@ -3,6 +3,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
 
+#tutorial: https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python
+
 from scipy.stats import norm
 from sklearn.preprocessing import StandardScaler
 from scipy import stats
