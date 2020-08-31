@@ -1,0 +1,6 @@
+((
+    pretrained models from here: 
+    1. https://www.kaggle.com/pytorch/densenet121?select=densenet121.pth
+    2. https://github.com/Cadene/pretrained-models.pytorch/tree/master/pretrainedmodels/models
+    3. resnet18 from pytorch package
+))
